@@ -1,3 +1,6 @@
+//https://github.com/Akash0186/jsjs.js
+
+
 function countAnimal(depth){
     var animal= 0;
     if (depth<=10){
